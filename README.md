@@ -1,2 +1,2 @@
 # littleblog
-基于vue2.x与饿了么移动端ui创建的小部落
+基于node express4+mongodb的小部落后台
